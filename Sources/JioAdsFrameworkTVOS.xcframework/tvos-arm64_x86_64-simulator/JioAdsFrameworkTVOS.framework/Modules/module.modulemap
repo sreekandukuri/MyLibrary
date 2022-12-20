@@ -1,0 +1,4 @@
+framework module JioAdsFrameworkTVOS {
+  header "JioAdsFrameworkTVOS-Swift.h"
+  requires objc
+}
